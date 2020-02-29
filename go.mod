@@ -1,4 +1,4 @@
-module ygs
+module github.com/ameyer8/ygs
 
 go 1.13
 
