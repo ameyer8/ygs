@@ -21,7 +21,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"ygs/internal/fileserver"
+	"github.com/ameyer8/ygs/internal/fileserver"
 
 	"github.com/spf13/cobra"
 )

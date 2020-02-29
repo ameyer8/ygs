@@ -15,8 +15,8 @@ limitations under the License.
 */
 package main
 
-import "ygs/cmd"
+import "github.com/ameyer8/ygs/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
