@@ -1,8 +1,8 @@
 # ygs
 
-You Got Served
+#### You Got Served
 
-This tool helps with development by standing up an arbitary directory server and an endpoint to post/retrieve data
+This tool helps with development by standing up a directory server and an endpoint to post/retrieve data
 
     ygs serve
 
